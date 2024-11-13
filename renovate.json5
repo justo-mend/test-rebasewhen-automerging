@@ -2,10 +2,4 @@
 "dependencyDashboard": true,
 "prHourlyLimit": 20,
 "rebaseWhen": "automerging",
-"packageRules": [
-      {
-        "matchDatasources": ["npm"],
-        "automerge": true
-      }
-    ]
 }
